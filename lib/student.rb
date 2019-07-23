@@ -23,8 +23,8 @@ class Student
 
   def self.find_by_name(name)
     sql = <<-SQL
-    
-    
+
+
   end
 
   def save
